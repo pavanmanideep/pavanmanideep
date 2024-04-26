@@ -7,11 +7,12 @@
 - 📫 Reach me on Twitter **https://twitter.com/pavanmanideep91**
 - 😄 Personal Blog: **https://ecellorscrm.com/**
 - 👯 I’m looking to collaborate on Microsoft Teams...
-- 🤔 I’m looking for help with learning Azure IOT primarily and connected field service..
+- 🤔 I’m always eager to gain knowledge in Azure IOT primarily, Connected field service and Quantum Computing..
 - 💬 Ask me about ...anything related to Power Platform
-- 😎Lastly just want to conclude by saying that me and my wife have relocated to a Singapore and experiencing all new things here!!!
+  
 
 Cheers...
 
+PMDY
 
 
