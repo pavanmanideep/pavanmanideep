@@ -12,7 +12,7 @@
 
   <img width="646" alt="LinkedIn with MVP" src="https://github.com/user-attachments/assets/049a4308-3c18-4d7e-b648-d524b084aef9">
 
-  ![Build Status](https://github.com/username/repo/actions/workflows/build.yml/badge.svg)
+![Build Status](https://github.com/username/repo/actions/workflows/build.yml/badge.svg)
 ![Coverage](https://img.shields.io/codecov/c/github/username/repo)
 ![License](https://img.shields.io/github/license/username/repo)
 ![Dependencies](https://img.shields.io/david/username/repo)
