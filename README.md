@@ -4,7 +4,7 @@
 - 🤔 I’m always eager to join and help organizations in their digital transformation and supporting professionals with career guidance, and technical problem-solving and in  their upskilling journey using Power Platform & other Microsoft Technologies 
 - 😄 Open to always support for your Dynamics 365 and Power Platform Implementations, do you message me on WhatsApp @**+65-82614650** for quick response for any suggestions...
 - 🌱 Do you want me to help in your freelancing needs or any job assistance for your Power Platform Projects, then checkout **https://www.fiverr.com/pavanmanideep**
-- 📫 How to reach me: Reach me on LinkedIn **https://www.linkedin.com/in/pavanmanideep/ **
+- 📫 How to reach me: Reach me on LinkedIn **https://linkedin.com/in/pavanmanideep/ **
 - 📫 Reach me on Twitter **https://twitter.com/pavanmanideep91**
 - 😄 Personal Blog: **https://ecellorscrm.com/**
 - 👯 I’m looking to collaborate on Microsoft Teams and best ways possible...
