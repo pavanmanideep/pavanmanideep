@@ -12,11 +12,12 @@
 
   <img width="646" alt="LinkedIn with MVP" src="https://github.com/user-attachments/assets/049a4308-3c18-4d7e-b648-d524b084aef9">
 
-![Build Status](https://github.com/pavanmanideep/repo/actions/workflows/build.yml/badge.svg)
-![Coverage](https://img.shields.io/codecov/c/github/pavanmanideep/repo)
-![License](https://img.shields.io/github/license/pavanmanideep/repo)
-![Dependencies](https://img.shields.io/david/pavanmanideep/repo)
+## 🚀 Project Badges
 
+[![Build Status](https://github.com/pavanmanideep/repo/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/pavanmanideep/repo/actions/workflows/build.yml)
+[![Coverage](https://codecov.io/gh/pavanmanideep/repo/branch/main/graph/badge.svg)](https://codecov.io/gh/pavanmanideep/repo)
+[![License](https://img.shields.io/github/license/pavanmanideep/repo)](https://github.com/pavanmanideep/repo/blob/main/LICENSE)
+[![Dependencies](https://img.shields.io/librariesio/github/pavanmanideep/repo)](https://libraries.io/github/pavanmanideep/repo)
   
 
 Cheers...
