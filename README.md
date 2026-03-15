@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Power%20Platform-blue)
+![Type](https://img.shields.io/badge/Type-PCF%20Control-purple)
+![Release](https://img.shields.io/badge/Release-v1.0.0-orange)
+![Downloads](https://img.shields.io/badge/Downloads-1-brightgreen)
+
 ### Hello Power Platform Folks 👋
 
 - I am a 🔭 **Passionate professional with hands on experience in Microsoft Power Platform & Dynamics 365 Technologies**, and a **Microsoft MVP for Power Apps**, currently working on **Power Platform,Dynamics CE Technical Projects as a CRM Architect at NeoSoft, Dubai**...
