@@ -13,6 +13,8 @@
   <img width="646" alt="LinkedIn with MVP" src="https://github.com/user-attachments/assets/049a4308-3c18-4d7e-b648-d524b084aef9">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmanideep&show_icons=true&theme=radical)
+
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  
 Cheers...
 
