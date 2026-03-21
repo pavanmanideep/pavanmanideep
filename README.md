@@ -11,6 +11,8 @@
 - 💬 Ask me about ...anything related to Power Platform, Dynamics 365, Azure...
 
   <img width="646" alt="LinkedIn with MVP" src="https://github.com/user-attachments/assets/049a4308-3c18-4d7e-b648-d524b084aef9">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmanideep&show_icons=true&theme=radical)
  
 Cheers...
 
