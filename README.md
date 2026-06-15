@@ -1,6 +1,6 @@
 ### Hello Power Platform Folks 👋
 
-- 🔭 Power Platform & AI Solution Architect | Microsoft Dynamics 365 CE, Power Platform & Azure AI | 2× Microsoft MVP – Business Applications (Power Apps)
+- 🔭 I am a Power Platform & AI Solution Architect | Microsoft Dynamics 365 CE, Power Platform & Azure AI | 2× Microsoft MVP – Business Applications (Power Apps)
 Currently working as CRM Architect at NeoSoft, Dubai — architecting enterprise CRM & agentic AI solutions across the GCC
 - 🤔 I’m always eager to join and help organizations in their digital transformation and supporting professionals with career guidance, and technical problem-solving and in  their upskilling journey using Power Platform & other Microsoft Technologies 
 - 😄 Open to always support for your Dynamics 365 and Power Platform Implementations, do you message me on WhatsApp @**+971-544359678** for quick response for any suggestions or you can book a session with me here.. https://topmate.io/pavanmanideep/
