@@ -53,8 +53,6 @@ Power Platform · Dynamics 365 · Azure AI · Agentic AI Solutions · CRM Archit
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmanideep&theme=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pavanmanideep&theme=transparent&hide_border=true)](https://github.com/pavanmanideep)
-
 [![Followers](https://img.shields.io/github/followers/pavanmanideep?label=Followers&style=flat-square&logo=github)](https://github.com/pavanmanideep?tab=followers)
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-REPLACE__ME-blue?style=flat-square&logo=github)
 
