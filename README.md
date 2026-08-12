@@ -56,6 +56,12 @@ Power Platform · Dynamics 365 · Azure AI · Agentic AI Solutions · CRM Archit
   <img src="https://streak-stats.demolab.com/?user=pavanmanideep&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
+<!-- Lightweight fallback badges — these use shields.io, which is highly reliable, so if the cards above ever fail to load, these still confirm the profile is active -->
+<p align="left">
+  <a href="https://github.com/pavanmanideep?tab=followers"><img src="https://img.shields.io/github/followers/pavanmanideep?label=Followers&style=flat-square&logo=github" /></a>
+  <a href="https://github.com/pavanmanideep?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavanmanideep&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" /></a>
+</p>
+
 ---
 
 <p align="center"><i>Cheers — PMDY</i></p>
