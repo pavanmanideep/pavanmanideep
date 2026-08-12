@@ -1,24 +1,30 @@
-### Hello Power Platform Folks 👋
+🔭 What I Do
 
-- 🔭 I am a Power Platform & AI Solution Architect | Microsoft Dynamics 365 CE, Power Platform & Azure AI | 3× Microsoft MVP – Business Applications (Power Apps)
-Currently working as CRM Architect at NeoSoft, Dubai — architecting enterprise CRM & agentic AI solutions across the GCC
-- 🤔 I’m always eager to join and help organizations in their digital transformation and supporting professionals with career guidance, and technical problem-solving and in  their upskilling journey using Power Platform & other Microsoft Technologies 
-- 😄 Open to always support for your Dynamics 365 and Power Platform Implementations, do you message me on WhatsApp @**+971-544359678** for quick response for any suggestions or you can book a session with me here.. https://topmate.io/pavanmanideep/
-- 🌱 Do you want me to help in your freelancing needs or any job assistance for your Power Platform Projects, then checkout **https://www.fiverr.com/pavanmanideep**
-- 📫 How to reach me: Reach me on LinkedIn **https://linkedin.com/in/pavanmanideep/**
-- 📫 Reach me on Twitter **https://twitter.com/pavanmanideep91**
-- 😄 Personal Blog: **https://ecellorscrm.com/**
-- 👯 I’m looking to collaborate on Microsoft Teams and best ways possible.
-- 💬 Ask me about ...anything related to Power Platform, Dynamics 365, Azure...
+CRM Architect at NeoSoft, Dubai — architecting enterprise CRM and agentic AI solutions across the GCC, built on Microsoft Dynamics 365 CE, Power Platform, and Azure AI.
 
-  <img width="646" alt="LinkedIn with MVP" src="https://github.com/user-attachments/assets/049a4308-3c18-4d7e-b648-d524b084aef9">
+🤔 What Drives Me
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmanideep&show_icons=true&theme=radical)
+I love helping organizations move through digital transformation, and helping professionals with:
 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- 
-Cheers...
+Career guidance in the Microsoft ecosystem
+Technical problem-solving on Power Platform & D365 projects
+Upskilling journeys across Power Platform, Dynamics 365 & Azure
+🌱 How I Can Support You
+D365 & Power Platform Implementations — book a quick consult on Topmate
+Freelance / Job Assistance for Power Platform Projects — check my Fiverr profile
+Quick questions? Reach me directly on WhatsApp: +971-544359678
+👯 Let's Collaborate
 
-PMDY
+Open to collaborating on Microsoft Teams projects and community initiatives — always happy to connect.
 
+💬 Ask Me About
 
+Power Platform · Dynamics 365 · Azure AI · Agentic AI Solutions · CRM Architecture
+
+📫 Find Me Online
+<p align="left"> <a href="https://linkedin.com/in/pavanmanideep/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/pavanmanideep91" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://ecellorscrm.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a> <a href="https://topmate.io/pavanmanideep/" target="_blank"><img src="https://img.shields.io/badge/Book%20a%20Session-000000?style=for-the-badge&logo=calendly&logoColor=white" /></a> <a href="https://www.fiverr.com/pavanmanideep" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a> </p>
+🛠️ Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" /> <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pavanmanideep&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmanideep&theme=radical" alt="GitHub Streak" height="165"/> </p>
+<p align="center"><i>Cheers — PMDY</i></p>
