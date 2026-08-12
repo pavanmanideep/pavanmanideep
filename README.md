@@ -42,25 +42,21 @@ Power Platform · Dynamics 365 · Azure AI · Agentic AI Solutions · CRM Archit
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamics CE%20-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=AI&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanmanideep&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=pavanmanideep&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanmanideep&theme=github)
 
-<!-- Lightweight fallback badges — these use shields.io, which is highly reliable, so if the cards above ever fail to load, these still confirm the profile is active -->
-<p align="left">
-  <a href="https://github.com/pavanmanideep?tab=followers"><img src="https://img.shields.io/github/followers/pavanmanideep?label=Followers&style=flat-square&logo=github" /></a>
-  <a href="https://github.com/pavanmanideep?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavanmanideep&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=pavanmanideep&theme=transparent&hide_border=true)](https://github.com/pavanmanideep)
+
+[![Followers](https://img.shields.io/github/followers/pavanmanideep?label=Followers&style=flat-square&logo=github)](https://github.com/pavanmanideep?tab=followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpavanmanideep&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github)
 
 ---
 
